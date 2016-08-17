@@ -15,8 +15,12 @@ public class ED {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-          System.out.println("Ya has bajado " + Escalera.escalon(5));
-    }
+ 
+  MetodosDeBusqueda.busquedaBinaria(28);
+  MetodosDeBusqueda.busquedaSecuencial(28);
+
+ }
+    
+  
     
 }
