@@ -7,7 +7,7 @@ package ed;
 
 /**
  *
- * @author Mariana Villegas
+ * @author Mariana Villega
  */
 public class ED {
 
@@ -15,10 +15,11 @@ public class ED {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
- 
-  MetodosDeBusqueda.busquedaBinaria(28);
-  MetodosDeBusqueda.busquedaSecuencial(28);
 
+   
+    System.out.println(EDMVillegasVT01.potencia(2,5));
+
+     
  }
     
   
